@@ -3,8 +3,7 @@
 Corrupt Your Miss Pink Elf♪
 
 1. Color Linear Mapping
-2. Segment + Color Linear Mapping
-3. Segment + Selective Redrawing
+2. (Role Classification +) Segmentation + Selective Redrawing
 
 ## Color Linear Mapping
 
